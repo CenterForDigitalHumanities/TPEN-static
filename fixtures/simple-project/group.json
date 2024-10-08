@@ -3,9 +3,7 @@
    "type":"Group",
    "label":"Fixture Group",
    "customRoles":{
-      "TPEN3_CUSTOM_ROLE":[
-         "DESIGNATE_TEXT_PUBLISHED"
-      ]
+
    },
    "members":{
       "66fd78343f9bfbbf656690fc":{
@@ -20,8 +18,7 @@
       },
       "661d43bc490d045b8ba04d38":{
          "roles":[
-            "OWNER",
-            "TPEN3_CUSTOM_ROLE"
+            "OWNER"
          ]
       }
    }
