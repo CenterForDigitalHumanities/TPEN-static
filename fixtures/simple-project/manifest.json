@@ -1,6 +1,7 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://devstore.rerum.io/v1/id/66fd818673a1f9339012d26c",
+   "@id":"https://devstore.rerum.io/v1/id/66fd818673a1f9339012d26c",
+   "id":"https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -47,7 +48,7 @@
             }
          ],
          "annotations":[
-            "https://devstore.rerum.io/v1/id/66fd813344b9285591c05abf"
+            "https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/page.json"
          ]
       }
    ]
