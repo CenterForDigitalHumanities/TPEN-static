@@ -1,6 +1,5 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "@id":"https://devstore.rerum.io/v1/id/66fd826f6d4fd13aaa75ba81",
    "id":"https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/layer.json",
    "type":"AnnotationCollection",
    "label":{
