@@ -9,4 +9,4 @@ This directory contains the following project and transcription artifacts
 - W3C Annotation (TPEN3 Line)
   
 
-This project is around an image from a pamphlet.  An inset map is identified and given the text "MAP CONTENT".
+This project identifies an inset map on a pamphlet and gives it the text "MAP CONTENT".  You can load the [manifest.json](https://static.t-pen.org/fixtures/simple-project/manifest.json) link in your preferred IIIF viewer.
