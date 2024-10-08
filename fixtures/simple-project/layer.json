@@ -1,0 +1,15 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://devstore.rerum.io/v1/id/66fd826f6d4fd13aaa75ba81",
+   "type":"AnnotationCollection",
+   "label":{
+      "none":[
+         "Fixture Layer 1"
+      ]
+   },
+   "total":1,
+   "first":"https://devstore.rerum.io/v1/id/66fd813344b9285591c05abf",
+   "last":"https://devstore.rerum.io/v1/id/66fd813344b9285591c05abf",
+   "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
+   "seeAlso": "https://dev.api.t-pen.org/project/66fd704e021ef957b034eb95"
+}

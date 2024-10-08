@@ -1,0 +1,14 @@
+{
+   "_id":"771d43bc490d045b8ba04d39",
+   "type":"User",
+   "name":"Patrick C.",
+   "email":"patrick@rerum.io",
+   "agent":"https://store.rerum.io/v1/id/771d43bc490d045b8ba04d39",
+   "profile":{
+      "nickname":"Cuba",
+      "github_username":"cubap",
+      "steam_username":"cubap123",
+      "favorite_number":3,
+      "favorite_color":"orange"
+   }
+}
