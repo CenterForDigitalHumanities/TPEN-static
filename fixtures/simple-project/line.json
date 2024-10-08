@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/line.json",
+   "id":"https://static.t-pen.org/fixtures/simple-project/line.json",
    "type":"Annotation",
    "motivation":"supplementing",
    "body":{

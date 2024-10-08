@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/manifest.json",
+   "id":"https://static.t-pen.org/fixtures/simple-project/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -47,7 +47,7 @@
             }
          ],
          "annotations":[
-            "https://centerfordigitalhumanities.github.io/TPEN-static/fixtures/simple-project/page.json"
+            "https://static.t-pen.org/fixtures/simple-project/page.json"
          ]
       }
    ]
