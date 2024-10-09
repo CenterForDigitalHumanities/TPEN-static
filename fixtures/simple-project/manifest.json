@@ -47,7 +47,10 @@
             }
          ],
          "annotations":[
-            "https://static.t-pen.org/fixtures/simple-project/page.json"
+            {
+               "id": "https://static.t-pen.org/fixtures/simple-project/page.json",
+               "type": "AnnotationPage"
+            }
          ]
       }
    ]
