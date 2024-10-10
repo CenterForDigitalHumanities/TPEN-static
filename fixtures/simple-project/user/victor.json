@@ -1,12 +1,9 @@
 {
    "_id":"66fd78343f9bfbbf656690fc",
-   "type":"User",
    "name":"Victor O.",
    "email":"victor@rerum.io",
-   "agent":"https://store.rerum.io/v1/id/66fd78343f9bfbbf656690fc",
    "profile":{
-      "nickname":"Vic Titan",
-      "github_username":"vyoo",
-      "favorite_color":"purple"
+      "displayName": "Victor O.",
+      "nickname":"Vic Titan"
    }
 }
