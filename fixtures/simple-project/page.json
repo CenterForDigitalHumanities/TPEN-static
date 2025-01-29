@@ -4,7 +4,7 @@
    "type":"AnnotationPage",
    "label":{
       "none":[
-         "Fixture Page 1"
+         "Small Inset Map"
       ]
    },
    "items":[
@@ -14,7 +14,7 @@
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",
-            "value":"MAP CONTENT",
+            "value":"Small inset map detailing Georgetown to Swains Lock",
             "format":"text/plain",
             "language":"none"
          },
