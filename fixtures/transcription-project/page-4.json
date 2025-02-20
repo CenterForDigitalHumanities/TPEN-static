@@ -3,7 +3,7 @@
    "id":"https://static.t-pen.org/fixtures/transcription-project/page-4.json",
    "type":"AnnotationPage",
    "label":{
-      "none":[
+      "en":[
          "Page 2 Lines Translated"
       ]
    },
@@ -14,11 +14,11 @@
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",
-            "value":"Lorem Ipsum To Translate Plz",
+            "value":"Holy Ceremonies *and",
             "format":"text/plain",
-            "language":"none"
+            "language":"en"
          },
-         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=920,3600,1510,3200"
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1300,1630,2450,280"
       },
       {
          "id":"https://static.t-pen.org/fixtures/transcription-project/line-8.json",
@@ -26,11 +26,11 @@
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",
-            "value":"TODO some translated text",
+            "value":"Church Customs *of",
             "format":"text/plain",
-            "language":"none"
+            "language":"en"
          },
-         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1120,3600,1510,3200"
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1300,1910,2450,340"
       }
    ],
    "partOf":"https://static.t-pen.org/fixtures/transcription-project/translation-layer.json",

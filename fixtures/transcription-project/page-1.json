@@ -3,7 +3,7 @@
    "id":"https://static.t-pen.org/fixtures/transcription-project/page-1.json",
    "type":"AnnotationPage",
    "label":{
-      "none":[
+      "en":[
          "Page 1 Lines Transcribed"
       ]
    },
@@ -14,9 +14,9 @@
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",
-            "value":"Lorem Ipsum To Do Plz",
+            "value":"Heilige Ceremonien *und",
             "format":"text/plain",
-            "language":"none"
+            "language":"ge"
          },
          "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
       },
@@ -26,9 +26,9 @@
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",
-            "value":"TODO some good text",
+            "value":"Kirchen-Gebräuche *der",
             "format":"text/plain",
-            "language":"none"
+            "language":"ge"
          },
          "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1910,2170,345"
       }
