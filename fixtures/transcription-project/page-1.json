@@ -18,7 +18,7 @@
             "format":"text/plain",
             "language":"none"
          },
-         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1600,2150,350"
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1600,2170,340"
       },
       {
          "id":"https://static.t-pen.org/fixtures/transcription-project/line-2.json",
@@ -30,7 +30,7 @@
             "format":"text/plain",
             "language":"none"
          },
-         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1950,2150,365"
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1940,2170,365"
       }
    ],
    "partOf":"https://static.t-pen.org/fixtures/transcription-project/transcription-layer.json",
