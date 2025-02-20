@@ -1,0 +1,39 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/fixtures/transcription-project/page-2.json",
+   "type":"AnnotationPage",
+   "label":{
+      "none":[
+         "Page 2 Transcribed"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://static.t-pen.org/fixtures/transcription-project/line-3.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Lorem Ipsum To Do Plz",
+            "format":"text/plain",
+            "language":"none"
+         },
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=920,3600,1510,3200"
+      },
+      {
+         "id":"https://static.t-pen.org/fixtures/transcription-project/line-4.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"TODO some good text",
+            "format":"text/plain",
+            "language":"none"
+         },
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1120,3600,1510,3200"
+      }
+   ],
+   "partOf":"https://static.t-pen.org/fixtures/transcription-project/transcription-layer.json",
+   "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
+   "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json"
+}
