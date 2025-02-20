@@ -95,10 +95,6 @@
             {
                "id":"https://static.t-pen.org/fixtures/transcription-project/page-2.json",
                "type":"AnnotationPage"
-            },
-            {
-               "id":"https://static.t-pen.org/fixtures/transcription-project/page-4.json",
-               "type":"AnnotationPage"
             }
          ]
       }
