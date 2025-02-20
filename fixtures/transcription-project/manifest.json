@@ -50,6 +50,10 @@
             {
                "id":"https://static.t-pen.org/fixtures/transcription-project/page-1.json",
                "type":"AnnotationPage"
+            },
+            {
+               "id":"https://static.t-pen.org/fixtures/transcription-project/page-3.json",
+               "type":"AnnotationPage"
             }
          ]
       },
@@ -94,6 +98,10 @@
          "annotations":[
             {
                "id":"https://static.t-pen.org/fixtures/transcription-project/page-2.json",
+               "type":"AnnotationPage"
+            },
+            {
+               "id":"https://static.t-pen.org/fixtures/transcription-project/page-4.json",
                "type":"AnnotationPage"
             }
          ]

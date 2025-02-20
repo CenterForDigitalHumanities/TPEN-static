@@ -1,0 +1,12 @@
+{
+   "id":"https://static.t-pen.org/fixtures/transcription-project/line-5.json",
+   "type":"Annotation",
+   "motivation":"tagging",
+   "body":{
+      "type":"TextualBody",
+      "value":"Holy Ceremonies *and",
+      "format":"text/plain",
+      "language":"en"
+   },
+   "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
+}
