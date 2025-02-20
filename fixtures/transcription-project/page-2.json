@@ -16,7 +16,7 @@
             "type":"TextualBody",
             "value":"Heilige Ceremonien *und",
             "format":"text/plain",
-            "language":"ge"
+            "language":"de"
          },
          "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1300,1630,2450,280"
       },
@@ -28,7 +28,7 @@
             "type":"TextualBody",
             "value":"Kirchen-Gebräuche *der",
             "format":"text/plain",
-            "language":"ge"
+            "language":"de"
          },
          "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-2.json#xywh=1300,1910,2450,340"
       }
