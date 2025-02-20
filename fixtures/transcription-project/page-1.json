@@ -30,7 +30,7 @@
             "format":"text/plain",
             "language":"none"
          },
-         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1600,1950,2200,400"
+         "target":"https://static.t-pen.org/fixtures/transcription-project/canvas-1.json#xywh=1600,1950,2200,365"
       }
    ],
    "partOf":"https://static.t-pen.org/fixtures/transcription-project/transcription-layer.json",
