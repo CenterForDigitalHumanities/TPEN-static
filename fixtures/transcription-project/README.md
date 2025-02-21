@@ -10,5 +10,5 @@ This directory contains the following project and transcription artifacts
 
 This project is an example of a TPEN Transcription project.  It has multiple Layers, Pages, and Lines one must render and navigate through.  You can load the [manifest.json](https://static.t-pen.org/fixtures/transcription-project/manifest.json) link in your preferred IIIF viewer.
 
-The Project, Canvases, Manifest, Annotation Collections, Annotation Pages, and Annotations are included as discrete objects and are individually resolvable.  In some cases objects are referenced as opposed to embedded.  Ex. https://static.t-pen.org/fixtures/transcription-project/transcription-layer.json
+The Manifest, Canvases, Annotation Collections, Annotation Pages, and Annotations are included as discrete objects and are individually resolvable.  In some cases objects are referenced as opposed to embedded.  Ex. https://static.t-pen.org/fixtures/transcription-project/transcription-layer.json
   
