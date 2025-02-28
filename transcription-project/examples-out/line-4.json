@@ -1,0 +1,12 @@
+{
+   "id":"https://static.t-pen.org/transcription-project/examples-out/line-4.json",
+   "type":"Annotation",
+   "motivation":"tagging",
+   "body":{
+      "type":"TextualBody",
+      "value":"Kirchen-Gebräuche *der",
+      "format":"text/plain",
+      "language":"de"
+   },
+   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
+}

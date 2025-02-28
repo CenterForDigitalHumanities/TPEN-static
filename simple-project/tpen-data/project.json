@@ -1,0 +1,20 @@
+{
+   "_id":"66fd704e021ef957b034eb95",
+   "label":"Simple Project",
+   "metadata":[
+      
+   ],
+   "layers":[
+      "https://static.t-pen.org/simple-project/examples-out/layer.json"
+   ],
+   "group":"66fd7d0f3d5367e49b2d7bb5",
+   "creator":"661d43bc490d045b8ba04d38",
+   "manifest":"https://static.t-pen.org/simple-project/fixtures-in/manifest.json",
+   "license":"CC-BY",
+   "tools":[
+      
+   ],
+   "options":{
+      
+   }
+}

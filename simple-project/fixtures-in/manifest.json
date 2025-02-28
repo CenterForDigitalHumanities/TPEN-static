@@ -1,0 +1,57 @@
+{
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://static.t-pen.org/simple-project/fixtures-in/manifest.json",
+   "type":"Manifest",
+   "label":{
+      "en":[
+         "Chesapeake and Ohio Canal Pamphlet"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json",
+         "type":"Canvas",
+         "label":{
+            "en":[
+               "Chesapeake and Ohio Canal Pamphlet"
+            ]
+         },
+         "width":5212,
+         "height":7072,
+         "items":[
+            {
+               "id":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/contentPage.json",
+               "type":"AnnotationPage",
+               "items":[
+                  {
+                     "id":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/content.json",
+                     "type":"Annotation",
+                     "motivation":"painting",
+                     "body":{
+                        "id":"https://iiif.io/api/image/3.0/example/reference/43153e2ec7531f14dd1c9b2fc401678a-88695674/full/max/0/default.jpg",
+                        "type":"Image",
+                        "format":"image/jpeg",
+                        "service":[
+                           {
+                              "id":"https://iiif.io/api/image/3.0/example/reference/43153e2ec7531f14dd1c9b2fc401678a-88695674",
+                              "type":"ImageService3",
+                              "profile":"level1"
+                           }
+                        ],
+                        "width":5212,
+                        "height":7072
+                     },
+                     "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json"
+                  }
+               ]
+            }
+         ],
+         "annotations":[
+            {
+               "id": "https://static.t-pen.org/simple-project/fixtures-in/page.json",
+               "type": "AnnotationPage"
+            }
+         ]
+      }
+   ]
+}

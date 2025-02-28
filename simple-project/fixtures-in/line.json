@@ -1,0 +1,13 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/simple-project/fixtures-in/line.json",
+   "type":"Annotation",
+   "motivation":"supplementing",
+   "body":{
+      "type":"TextualBody",
+      "value":"MAP CONTENT",
+      "format":"text/plain",
+      "language":"none"
+   },
+   "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json#xywh=920,3600,1510,3200"
+}

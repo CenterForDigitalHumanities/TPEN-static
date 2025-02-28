@@ -1,0 +1,38 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/transcription-project/fixtures-in/page-2.json",
+   "type":"AnnotationPage",
+   "label":{
+      "en":[
+         "Page 2 Lines Transcribed"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://static.t-pen.org/transcription-project/fixtures-in/line-3.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Heilige Ceremonien *und",
+            "format":"text/plain",
+            "language":"de"
+         },
+         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
+      },
+      {
+         "id":"https://static.t-pen.org/transcription-project/fixtures-in/line-4.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Kirchen-Gebräuche *der",
+            "format":"text/plain",
+            "language":"de"
+         },
+         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
+      }
+   ],
+   "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
+   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json"
+}

@@ -1,0 +1,25 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/simple-project/fixtures-in/page.json",
+   "type":"AnnotationPage",
+   "label":{
+      "none":[
+         "Small Inset Map"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://static.t-pen.org/simple-project/fixtures-in/line.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Small inset map detailing Georgetown to Swains Lock",
+            "format":"text/plain",
+            "language":"none"
+         },
+         "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json#xywh=920,3600,1510,3200"
+      }
+   ],
+   "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json"
+}

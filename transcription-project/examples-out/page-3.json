@@ -1,0 +1,39 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/transcription-project/examples-out/page-3.json",
+   "type":"AnnotationPage",
+   "label":{
+      "en":[
+         "Page 1 Lines Translated"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://static.t-pen.org/transcription-project/examples-out/line-5.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Holy Ceremonies *and",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
+      },
+      {
+         "id":"https://static.t-pen.org/transcription-project/examples-out/line-6.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Church Customs *of",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
+      }
+   ],
+   "partOf":"https://static.t-pen.org/transcription-project/examples-out/translation-layer.json",
+   "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
+   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json"
+}
