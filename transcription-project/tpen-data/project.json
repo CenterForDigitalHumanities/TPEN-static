@@ -5,12 +5,12 @@
       
    ],
    "layers":[
-      "https://static.t-pen.org/transcription-project/transcription-layer.json",
-      "https://static.t-pen.org/transcription-project/translation-layer.json"
+      "https://static.t-pen.org/transcription-project/examples-out/transcription-layer.json",
+      "https://static.t-pen.org/transcription-project/examples-out/translation-layer.json"
    ],
    "group":"66fd7d0f3d5367e49b2d7bb5",
    "creator":"661d43bc490d045b8ba04d38",
-   "manifest":"https://static.t-pen.org/transcription-project/manifest.json",
+   "manifest":"https://static.t-pen.org/transcription-project/fixtures-in/manifest.json",
    "license":"CC-BY",
    "tools":[
       
