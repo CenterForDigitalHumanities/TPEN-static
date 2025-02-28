@@ -16,6 +16,23 @@ The expectation of these files is that common exported or viewed documents will 
 This repo follows the old user images structure for user projects. At the root are the directories for individual 
 projects as id hash or project stub (if defined). The file name will be constructed from what it actually is.
 
+### IIIF Manifests
+The IIIF Manifests are stored in the project directory as `manifest.jsonld`. This is the only file that is expected to
+be updated by the user request. The other files are expected to be updated by the system.
+
+The Manifest will always be compliant with the most recent IIIF Presentation API version at time of publication.
+The Services API endpoint (TODO: CHECK LINK) at `https://api.t-pen.org/export/manifest` will generate a new Manifest 
+based on the current state of the Project. The result will be pushed to the `manifest.jsonld` file in the project
+directory.
+
+> **Note:** Our `manifest.jsonld` files will always be a completely embedded serialization of the Project and its 
+> parts (Annotation Collections, Annotation Pages, and Annotations). This is to ensure that the Manifest is a
+> self-contained document that can be used offline or in a viewer that does not support dynamic loading of resources.
+> This is a departure from the IIIF Presentation API's recommendation to use external resources for these parts.
+> Original external `id` values will be used for all parts, and the `@context` will be set to the IIIF Presentation API context.
+
+To see an example of a `manifest.jsonld` file, see the [example manifest](example-manifest.jsonld).
+
 Examples: 
 * `/423f23ee23b599d0/manifest.jsonld` IIIF Manifest derivative for viewers
 * `/nocap-slug/f-12v.txt` Text blob for page label "f-12v" in the project with "nocap-slug" as a slug
