@@ -24,7 +24,7 @@ The Manifest will always be compliant with the most recent IIIF Presentation API
 
 > **Note:** Our `manifest.jsonld` files will always be a completely embedded serialization of the Project and its parts (Annotation Collections, Annotation Pages, and Annotations). This is to ensure that the Manifest is a self-contained document that can be used offline or in a viewer that does not support dynamic loading of resources. This is a departure from the IIIF Presentation API's recommendation to use external resources for these parts. Original external `id` values will be used for all parts, and the `@context` will be set to the IIIF Presentation API context.
 
-To see an example of a `manifest.jsonld` file, see the [example manifest](example-manifest.jsonld).
+To see an example of a `manifest.jsonld` file, see the [example manifest](/010101010101010101010101/manifest.json).
 
 ### Viewers
 
