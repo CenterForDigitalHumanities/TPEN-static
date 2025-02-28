@@ -1,0 +1,14 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://static.t-pen.org/simple-project/examples-out/layer.json",
+   "type":"AnnotationCollection",
+   "label":{
+      "none":[
+         "Layer 1"
+      ]
+   },
+   "total":1,
+   "first":"https://static.t-pen.org/simple-project/examples-out/page.json",
+   "last":"https://static.t-pen.org/simple-project/examples-out/page.json",
+   "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38"
+}

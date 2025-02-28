@@ -1,10 +1,10 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://static.t-pen.org/fixtures/simple-project/manifest.json",
+   "id":"https://static.t-pen.org/simple-project/fixtures-in/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
-         "TPEN3 Static Project Example"
+         "Chesapeake and Ohio Canal Pamphlet"
       ]
    },
    "items":[
@@ -48,7 +48,7 @@
          ],
          "annotations":[
             {
-               "id": "https://static.t-pen.org/fixtures/simple-project/page.json",
+               "id": "https://static.t-pen.org/simple-project/fixtures-in/page.json",
                "type": "AnnotationPage"
             }
          ]

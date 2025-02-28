@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://static.t-pen.org/fixtures/simple-project/page.json",
+   "id":"https://static.t-pen.org/simple-project/examples-out/page.json",
    "type":"AnnotationPage",
    "label":{
       "none":[
@@ -9,7 +9,7 @@
    },
    "items":[
       {
-         "id":"https://static.t-pen.org/fixtures/simple-project/line.json",
+         "id":"https://static.t-pen.org/simple-project/examples-out/line.json",
          "type":"Annotation",
          "motivation":"tagging",
          "body":{
@@ -21,7 +21,7 @@
          "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json#xywh=920,3600,1510,3200"
       }
    ],
-   "partOf":"https://static.t-pen.org/fixtures/simple-project/layer.json",
+   "partOf": "https://static.t-pen.org/simple-project/examples-out/layer.json",
    "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
    "target":"https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/canvas.json"
 }

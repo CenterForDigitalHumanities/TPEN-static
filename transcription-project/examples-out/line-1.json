@@ -1,0 +1,13 @@
+{
+   "id":"https://static.t-pen.org/transcription-project/examples-out/line-1.json",
+   "type":"Annotation",
+   "motivation":"tagging",
+   "body":{
+      "type":"TextualBody",
+      "value":"Heilige Ceremonien *und",
+      "format":"text/plain",
+      "language":"de"
+   },
+   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
+}
+      
