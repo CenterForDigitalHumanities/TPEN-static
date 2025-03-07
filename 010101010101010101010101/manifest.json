@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "@id":"https://devstore.rerum.io/v1/id/67cb23c96d35d4138c2fd58a",
+   "@id":"https://static.t-pen.org/010101010101010101010101/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
