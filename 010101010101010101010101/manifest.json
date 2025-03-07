@@ -3,7 +3,7 @@
    "@id":"https://static.t-pen.org/010101010101010101010101/manifest.json",
    "type":"Manifest",
    "label":{
-      "en":[
+      "none":[
          "TPEN3 Transcription/Translation Example"
       ]
    },
