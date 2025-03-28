@@ -71,8 +71,8 @@
                   },
                   {
                      "id":"https://devstore.rerum.io/v1/id/67cb203ce5e80f3c976b6cf3",
-                     "type":"transcribing",
-                     "motivation":"tagging",
+                     "type":"Annotation",
+                     "motivation":"transcribing",
                      "body":{
                         "type":"TextualBody",
                         "value":"Kirchen-Gebräuche *der",
