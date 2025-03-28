@@ -45,7 +45,27 @@
               }
             ]
           }
-        ]
+        ],
+        "annotations": [
+        {
+          "id": "https://store.rerum.io/v1/id/67e6e33e9f8a7211bec991b7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://store.rerum.io/v1/id/67e6e1839f8a7211bec991b6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "A 250 x 250 square at canvas dimensions 100, 100.  It should appear near the top left.",
+                "format": "text/plain",
+                "language": "de"
+              },
+              "target": "https://store.rerum.io/v1/id/67e6e12d9f8a7211bec991b5#xywh=100,100,250,250"
+            }
+          ]
+        }
+      ]
       }
     ]
   }
