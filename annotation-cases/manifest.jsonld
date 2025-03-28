@@ -66,6 +66,53 @@
           ]
         }
       ]
+      },
+      {
+        "id": "https://store.rerum.io/v1/id/67e6e12d9f8a7211bec991b5",
+        "type": "Canvas",
+        "height": 1080,
+        "width": 1920,
+        "items": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0004-canvas-size/page/p1/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://iiif.io/api/cookbook/recipe/0004-canvas-size/annotation/p0001-image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://fixtures.iiif.io/video/indiana/donizetti-elixir/act1-thumbnail.png",
+                  "type": "Image",
+                  "format": "image/png",
+                  "height": 360,
+                  "width": 640
+                },
+                "target": "https://store.rerum.io/v1/id/67e6e12d9f8a7211bec991b5"
+              }
+            ]
+          }
+        ],
+        "annotations": [
+          {
+            "id": "https://store.rerum.io/v1/id/67e6e33e9f8a7211bec991b7",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://store.rerum.io/v1/id/67e6e1839f8a7211bec991b6",
+                "type": "Annotation",
+                "motivation": "commenting",
+                "body": {
+                  "type": "TextualBody",
+                  "value": "A 250 x 250 square at canvas dimensions 100, 100.  It should appear near the top left.",
+                  "format": "text/plain",
+                  "language": "de"
+                },
+                "target": "https://store.rerum.io/v1/id/67e6e12d9f8a7211bec991b5#xywh=100,100,250,250"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
