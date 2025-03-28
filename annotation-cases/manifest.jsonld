@@ -100,11 +100,11 @@
         ],
         "annotations": [
           {
-            "id": "https://store.rerum.io/v1/id/67e6e33e9f8a7211bec991b7",
+            "id": "https://store.rerum.io/fake/7",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://store.rerum.io/v1/id/67e6e1839f8a7211bec991b6",
+                "id": "https://store.rerum.io/fake/8",
                 "type": "Annotation",
                 "motivation": "commenting",
                 "body": {
