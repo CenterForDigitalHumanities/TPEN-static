@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json",
+    "id": "https://static.t-pen.org/annotation-cases/manifest.jsonld",
     "type": "Manifest",
     "label": {
       "en": [
