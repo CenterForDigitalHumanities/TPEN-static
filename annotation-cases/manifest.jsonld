@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
       "en": [
-        "Picture of Göttingen taken during the 2019 IIIF Conference"
+        "Annotation Case Manifest"
       ]
     },
     "items": [
@@ -13,7 +13,7 @@
         "type": "Canvas",
         "label": {
           "en": [
-            "Canvas with a single IIIF image"
+            "Canvas is bigger than image, which is a IIIF service"
           ]
         },
         "height": 3024,
@@ -70,6 +70,11 @@
       {
         "id": "https://store.rerum.io/v1/id/67e6e12d9f8a7211bec991b5",
         "type": "Canvas",
+        "label": {
+          "en": [
+            "Canvas is smaller than image, which is just an image."
+          ]
+        },
         "height": 1080,
         "width": 1920,
         "items": [
