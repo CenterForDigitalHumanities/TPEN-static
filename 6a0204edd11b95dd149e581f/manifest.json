@@ -1,0 +1,974 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://static.t-pen.org/6a0204edd11b95dd149e581f/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "caza"
+    ]
+  },
+  "metadata": [],
+  "items": [
+    {
+      "id": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Gen 5 Caza - Leblanc Marriage of Theodore Caza and Julie Leblancs 1839.jpg"
+        ]
+      },
+      "width": 2044,
+      "height": 2460,
+      "items": [
+        {
+          "id": "https://cubap.github.io/somepics/projects/caza/manifest.json/page/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cubap.github.io/somepics/projects/caza/manifest.json/annotation/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cubap.github.io/somepics/projects/caza/images/Gen 5 Caza - Leblanc Marriage of Theodore Caza and Julie Leblancs 1839.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2044,
+                "height": 2460
+              },
+              "target": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941",
+      "annotations": [
+        {
+          "id": "https://store.rerum.io/v1/id/6a0204edd11b95dd149e5821",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Page 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9dc",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "1839",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=-7,55,353,156"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899c2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,292,344,546"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a489ba335754144c9f4",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Co. Huntingdon",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,838,344,46"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a589ba335754144c9f5",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "P.Q.",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,885,344,75"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a639ba335754144c9f6",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Registres",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,963,344,119"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a6c9ba335754144c9f7",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Photographies",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,1081,344,66"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a709ba335754144c9f8",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "au",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,1148,344,55"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a759ba335754144c9f9",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "greffe",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,1203,344,52"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a7a9ba335754144c9fa",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "de",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,1255,344,49"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020a809ba335754144c9fb",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Valleyfield",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=28,1304,344,95"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9e2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Le vingt huit janvier mil huit cent trente neuf par",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=609,194,341,130"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899c0",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "nous prêtre soussigné acte [baptisé?] Augustin",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=609,324,341,127"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899d0",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Robert né avant hier du légitime mariage",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=609,451,341,185"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9ef",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "de Joseph Duchesne cultivateur en cette",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,902,321,171"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899d1",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "paroisse et de [Élisabet?] Dupuis lesquels",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,1072,321,147"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9f0",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "a été Augustin Duchesne et la nommée",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,1220,321,124"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899d2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Julie Dupuis qui n'ont su signer",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,1344,321,113"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899d3",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Mr",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,1457,321,162"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9e1",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Theodore",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=623,1619,321,225"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020aee9ba335754144c9fc",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Le vingt huit janvier mil huit cent trente neuf par nous prêtre soussigné acte [baptisé?] Augustin Robert né avant hier du légitime mariage de Joseph Duchesne cultivateur en cette paroisse et de [Élisabet?] Dupuis lesquels a été Augustin Duchesne et la nommée Julie Dupuis qui n'ont su signer Mr Theodore Lebeau",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,217,1029,80"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9df",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "x",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,297,1029,66"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9f1",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "dite",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,363,1029,54"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899c4",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Leblanc",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,418,1029,68"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9e3",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,486,1029,64"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c44dff2663b67899c6",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Le onze février mil huit cent trente neuf après la",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,550,1029,62"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9f2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "publication de trois bans faite au prône de",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,612,1029,72"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9e5",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "la messe paroissiale entre Théodore Leblanc",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=990,685,1029,246"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020bbe4dff2663b67899d5",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Le onze février mil huit cent trente neuf après la ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1013,954,997,90"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020bc44dff2663b67899d6",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "publication de trois bans faite au prône de ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1013,1046,997,63"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020bcb4dff2663b67899d7",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "la messe paroissiale entre Théodore Leblanc ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1015,1109,997,74"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020bd44dff2663b67899d8",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "dit Beau fils cultivateur en cette paroisse ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1015,1182,997,60"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c0b4dff2663b67899d9",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "veuf majeur de feue Julie [Bourier?] d'une ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1015,1243,997,60"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c1f4dff2663b67899db",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "part: et Julie de Marie [Coriville?] en cette ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1015,1303,997,60"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c254dff2663b67899dc",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "paroisse fille mineure de feu [Pierre?] Baptiste ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1017,1363,997,70"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c3e4dff2663b67899dd",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Lebeau et d'[Emilie?] [Blin?] ses père et mère ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1017,1433,997,64"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c444dff2663b67899de",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "ce d'autre part n'ayant découvert aucun ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1017,1497,997,72"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c594dff2663b67899df",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "empêchement au dit mariage et au boncon ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1017,1569,997,54"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a0209c49ba335754144c9e8",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "en présence de Alexis Huotier, d'Octave",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1018,1622,997,59"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c844dff2663b67899e1",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "gné avons reçu leur mutuel consentement ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1020,1681,997,57"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c8c4dff2663b67899e2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "et leur avons donné la bénédiction nuptiale ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1020,1738,997,59"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c944dff2663b67899e3",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "en présence de Alexis Huotier, d'Octave ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1020,1796,997,75"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020c994dff2663b67899e4",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Lacroix, et d'Ignace [Leroux?] tous, ainsi ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1020,1872,997,65"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020ca04dff2663b67899e5",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "que les époux n'ont su signer ",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1022,1937,997,80"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            },
+            {
+              "id": "https://store.rerum.io/v1/id/6a020d054dff2663b67899e6",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Mr Theodore Lebeau",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1022,2017,997,258"
+                }
+              },
+              "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+            }
+          ],
+          "partOf": [
+            {
+              "id": "https://store.rerum.io/v1/id/6a0204edd11b95dd149e5820",
+              "type": "AnnotationCollection"
+            }
+          ],
+          "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941",
+          "target": "https://cubap.github.io/somepics/projects/caza/manifest.json/canvas/1"
+        }
+      ]
+    }
+  ],
+  "creator": "http://store.rerum.io/v1/id/60b15c6111aeb54ed01e9941"
+}
