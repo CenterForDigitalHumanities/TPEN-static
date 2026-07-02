@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://static.t-pen.org/6a45cc80bc98e5df5b438100/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Waldensian Matthew"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://static.t-pen.org/6a45cc80bc98e5df5b438100/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Waldensian Matthew Page 1"
+        ]
+      },
+      "width": 501,
+      "height": 180,
+      "items": [
+        {
+          "id": "https://static.t-pen.org/6a45cc80bc98e5df5b438100/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://static.t-pen.org/6a45cc80bc98e5df5b438100/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://imgs.search.brave.com/YbQlv85gLuT7HPIeVuhjpKLQOVXK2dZz-zRdCf9dLWc/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9ycnAu/c3RhbmZvcmQuZWR1/L2ltYWdlcy9lcmZz/YW1wLmpwZw",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 501,
+                "height": 180
+              },
+              "target": "https://static.t-pen.org/6a45cc80bc98e5df5b438100/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://store.rerum.io/v1/id/6a3e1105770069ca03b225f6"
+    }
+  ],
+  "creator": "https://store.rerum.io/v1/id/6a3e1105770069ca03b225f6"
+}
